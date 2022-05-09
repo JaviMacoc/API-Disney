@@ -1,0 +1,35 @@
+h1 {
+    color:#000;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    text-align: center;   
+}
+header{
+    background-color:blueviolet;    
+}
+li:hover {
+    background: rgb(61, 21, 95);
+    color: #fff;   
+}
+.dropdown-menu{
+    background-color: rgb(92, 35, 143);    
+}
+.dropdown-item{
+    color: #fff;
+}
+.dropdown-item:hover{
+    color: #fff;
+    background-color: rgb(61, 21, 95);    
+}
+
+h6, .nav-link{
+    color: #fff !important;
+}
+li.nav-item{
+    display: flex;
+    justify-content: center;
+}
+
+.tdBtn{
+    white-space: nowrap;
+    width: 1%;
+}
